@@ -1,0 +1,21 @@
+.profile {
+    width: 500px;
+    border-width: 20px;
+    border-style: groove;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    word-spacing: 5px;
+}
+
+#welcome {
+    background: linear-gradient (#ff0000 0%, #00f5f6 100%);
+    height: 800px;
+}
